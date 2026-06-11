@@ -4,7 +4,7 @@ This simple shell script checks your (Docker-based) Conan Dedicated Server and r
 
 ## ASSUMPTIONS
 This script makes a couple assumptions about your environment:
-* You are using a docker container to run your server (I recommend [this one](https://github.com/melle2/conanexiles-ds))
+* You are using a docker compose file to run your server inside a docker container (I recommend [this one](https://github.com/melle2/conanexiles-ds))
 * You're cool with running cron jobs
 * Your server is sparse enough that there are windows where no one is playing
 
