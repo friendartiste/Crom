@@ -1,4 +1,4 @@
-# Conan Exiles Server Updater
+# Crom: the Conan Exiles Server Updater
 
 This simple shell script checks your (Docker-based) Conan Dedicated Server and restarts it if there is an update available and no one is playing
 
